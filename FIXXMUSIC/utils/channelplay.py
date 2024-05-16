@@ -1,5 +1,5 @@
-from DAXXMUSIC import app
-from DAXXMUSIC.utils.database import get_cmode
+from FIXXMUSIC import app
+from FIXXMUSIC.utils.database import get_cmode
 
 
 async def get_channeplayCB(_, command, CallbackQuery):
