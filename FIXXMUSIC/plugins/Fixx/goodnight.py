@@ -9,7 +9,7 @@ from FIXXMUSIC import app
 
 
 # "/gn" command ka handler
-@app.on_message(filters.command("oodnight", prefixes="g"))
+@app.on_message(filters.command("oodnight", "goodnight" , prefixes="g"))
 def goodnight_command_handler(client: Client, message: Message):
     # Randomly decide whether to send a sticker or an emoji
     send_sticker = random.choice([True, False])
@@ -23,11 +23,11 @@ def goodnight_command_handler(client: Client, message: Message):
 # Function to get a random sticker
 def get_random_sticker():
     stickers = [
-        "CAACAgQAAx0Ce9_hCAACaEVlwn7HeZhgwyVfKHc3WUGC_447IAACLgwAAkQwKVPtub8VAR018x4E",
-        "CAACAgIAAx0Ce9_hCAACaEplwn7dvj7G0-a1v3wlbN281RMX2QACUgwAAligOUoi7DhLVTsNsh4E",
-        "CAACAgIAAx0Ce9_hCAACaFBlwn8AAZNB9mOUvz5oAyM7CT-5pjAAAtEKAALa7NhLvbTGyDLbe1IeBA",
-        "CAACAgUAAx0CcmOuMwACldVlwn9ZHHF2-S-CuMSYabwwtVGC3AACOAkAAoqR2VYDjyK6OOr_Px4E",
-        "CAACAgIAAx0Ce9_hCAACaFVlwn-fG58GKoEmmZpVovxEj4PodAACfwwAAqozQUrt2xSTf5Ac4h4E",
+        "https://telegra.ph/file/0d483cf46ab857580ec5a.mp4",
+        "https://telegra.ph/file/9902b5be3c1a90f8a7dac.mp4",
+        "https://telegra.ph/file/73847ffdd2618d7159aa0.mp4",
+        "https://telegra.ph/file/a559dc6bf840788918c0b.mp4",
+        "https://telegra.ph/file/3b269250d7ba8e1024c79.mp4",
     ]
     return random.choice(stickers)
 
@@ -37,6 +37,8 @@ def get_random_emoji():
         "😴",
         "😪", 
         "💤",
-        
+        "🛌"
+        "🛏️"
+        "💀"
     ]
     return random.choice(emojis)
