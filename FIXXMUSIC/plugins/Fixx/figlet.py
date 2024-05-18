@@ -12,13 +12,13 @@ def figle(text):
     keyboard = InlineKeyboardMarkup([[InlineKeyboardButton(text="ᴄʜᴀɴɢᴇ", callback_data="figlet"),InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close_reply")]])
     return figled, keyboard
 
-@app.on_message(filters.command("figlet"))
+@app.on_message(filters.command("figlet" , "vashufiglet"))
 async def echo(bot, message):
     global text
     try:
         text = message.text.split(' ',1)[1]
     except IndexError:
-        return await message.reply_text("Example:\n\n`/figlet DAXX PAPA `")
+        return await message.reply_text("Example:\n\n`/figlet FIXX PAPA `")
     kul_text, keyboard = figle(text)
     await message.reply_text(f"ʜᴇʀᴇ ɪs ʏᴏᴜʀ ғɪɢʟᴇᴛ :\n<pre>{kul_text}</pre>", quote=True, reply_markup=keyboard)
 
@@ -32,4 +32,4 @@ async def figlet_handler(Client, query: CallbackQuery):
 __mod_name__ = "Fɪɢʟᴇᴛ" 
 __help__="""
 ❍ /figlet*:* ᴍᴀᴋᴇs ғɪɢʟᴇᴛ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ
-Example:\n\n`/figlet DAXX PAPA `"""
+Example:\n\n`/figlet FIXX PAPA `"""
