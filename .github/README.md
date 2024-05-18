@@ -26,7 +26,7 @@ GO TO [RELOAD.PY]() THEN CHANGE MY ID NUMBER
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a "> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-green?style=for-the-badge&logo=heroku" width="520" height="138.45"/></a></p>
+<p align="center"><a href="https://github.com/Vashu2456/FIXXMUSICV"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FIXXTEAM&show_icons=true&locale=en&layout=compact" alt="FIXXTEAM" /></p>
 
