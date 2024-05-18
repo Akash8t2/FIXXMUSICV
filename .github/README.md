@@ -5,7 +5,8 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vashu2456&repo=FIXXMUSICV&theme=flag-india)
 
 [![GIF](https://github.com/FIXXTEAM/FIXXMUSIC/blob/main/FIXXTEAM.gif)](https://github.com/FIXXTEAM)
-   [![𝐌𝐑.𝐅𝐈𝐗𝐗]()]()
+   [![𝐌𝐑.𝐅𝐈𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=FIXXTEAM "MISSFIXX")](https://github-stats-alpha.vercel.app/api?username=FIXXTEAM "MISSFIXX")
+)
 
 
 
