@@ -44,10 +44,10 @@ async def sticker_image(_, message: Message):
     r = message.reply_to_message
 
     if not r:
-        return await message.reply("Reply to a sticker.")
+        return await message.reply("Reply to a sticker./ 𝘼𝙍𝙀𝙀 𝙅𝙊 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀 𝙇𝙄𝙆𝙃𝙉𝘼 𝙃 𝙒𝙊 𝘽𝘼𝙏𝘼𝙊 𝙈𝘼𝙔 𝙇𝙀𝙆𝙃𝙏𝙄 𝙃𝙐 𝙊𝙍 𝙆𝘼𝙍𝙏𝙄 𝙃𝙐 𝙎𝙀𝙉𝘿 𝙅𝙄")
 
     if not r.sticker:
-        return await message.reply("Reply to a sticker.")
+        return await message.reply("Reply to a sticker./ 𝘼𝙍𝙀𝙀 𝙅𝙊 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 𝙈𝙀 𝙇𝙄𝙆𝙃𝙉𝘼 𝙃 𝙒𝙊 𝘽𝘼𝙏𝘼𝙊 𝙈𝘼𝙔 𝙇𝙀𝙆𝙃𝙏𝙄 𝙃𝙐 𝙊𝙍 𝙆𝘼𝙍𝙏𝙄 𝙃𝙐 𝙎𝙀𝙉𝘿 𝙅𝙄")
 
     m = await message.reply("Sending..")
     f = await r.download(f"{r.sticker.file_unique_id}.png")
@@ -62,7 +62,7 @@ async def sticker_image(_, message: Message):
     await m.delete()
     os.remove(f)
 #----------------
-@app.on_message(filters.command("kang"))
+@app.on_message(filters.command("kang" , "vkang"))
 @capture_err
 async def kang(client, message: Message):
     if not message.reply_to_message:
