@@ -1,20 +1,20 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from DAXXMUSIC import app
-from DAXXMUSIC.utils import extract_user, int_to_alpha
-from DAXXMUSIC.utils.database import (
+from FIXXMUSIC import app
+from FIXXMUSIC.utils import extract_user, int_to_alpha
+from FIXXMUSIC.utils.database import (
     delete_authuser,
     get_authuser,
     get_authuser_names,
     save_authuser,
 )
-from DAXXMUSIC.utils.decorators import AdminActual, language
-from DAXXMUSIC.utils.inline import close_markup
+from FIXXMUSIC.utils.decorators import AdminActual, language
+from FIXXMUSIC.utils.inline import close_markup
 from config import BANNED_USERS, adminlist
 
 
-@app.on_message(filters.command("auth") & filters.group & ~BANNED_USERS)
+@app.on_message(filters.command("auth" , "vashuauth") & filters.group & ~BANNED_USERS)
 @AdminActual
 async def auth(client, message: Message, _):
     if not message.reply_to_message:
