@@ -2,7 +2,7 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 from FIXXMUSIC import app
 
-@app.on_message(filters.command("groupinfo", prefixes="/"))
+@app.on_message(filters.command("groupinfo",  "vgfo" ,prefixes="/"))
 async def get_group_status(_, message: Message):
     if len(message.command) != 2:
         await message.reply("Please provide a group username. Example: `/groupinfo YourGroupUsername`")
@@ -27,7 +27,9 @@ async def get_group_status(_, message: Message):
         f"➲ TOTAL MEMBERS : {total_members}\n"
         f"➲ DESCRIPTION : {group_description or 'N/A'}\n"
         f"➲ USERNAME : @{group_username}\n"
-       
+        f"➲ GROUP BIO : {group_bio}/n"
+        f"➲ REQUESTED USER : @{member_username}/n"
+        𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔 𝙑𝘼𝙎𝙃𝙐
         f"➖➖➖➖➖➖➖"
     )
     
@@ -39,7 +41,7 @@ async def get_group_status(_, message: Message):
 
 
 # Command handler to get group status
-@app.on_message(filters.command("status") & filters.group)
+@app.on_message(filters.command("status" , "vashustatus") & filters.group)
 def group_status(client, message):
     chat = message.chat  # Chat where the command was sent
     status_text = f"Group ID: {chat.id}\n" \
