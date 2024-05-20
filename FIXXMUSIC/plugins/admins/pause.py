@@ -1,15 +1,15 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from DAXXMUSIC import app
-from DAXXMUSIC.core.call import DAXX
-from DAXXMUSIC.utils.database import is_music_playing, music_off
-from DAXXMUSIC.utils.decorators import AdminRightsCheck
-from DAXXMUSIC.utils.inline import close_markup
+from FIXXMUSIC import app
+from FIXXMUSIC.core.call import DAXX
+from FIXXMUSIC.utils.database import is_music_playing, music_off
+from FIXXMUSIC.utils.decorators import AdminRightsCheck
+from FIXXMUSIC.utils.inline import close_markup
 from config import BANNED_USERS
 
 
-@app.on_message(filters.command(["pause", "cpause"]) & filters.group & ~BANNED_USERS)
+@app.on_message(filters.command(["pause", "vcpause"]) & filters.group & ~BANNED_USERS)
 @AdminRightsCheck
 async def pause_admin(cli, message: Message, _, chat_id):
     if not await is_music_playing(chat_id):
