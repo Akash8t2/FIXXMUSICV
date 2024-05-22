@@ -1,15 +1,5 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vashu2456&repo=FIXXMUSICV&theme=flag-india)
 
-[![GIF](https://github.com/FIXXTEAM/FIXXMUSIC/blob/main/FIXXTEAM.gif)](https://github.com/FIXXTEAM)
-   [![𝐌𝐑.𝐅𝐈𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=FIXXTEAM "MISSFIXX")](https://github-stats-alpha.vercel.app/api?username=FIXXTEAM "MISSFIXX")
-)
-
-
-
-
-
-GO TO [RELOAD.PY]() THEN CHANGE MY ID NUMBER 
-
 <p align="center">
   <img src="https://telegra.ph/file/c3c53c84112d23f06b02d.jpg">
 </p>
@@ -20,6 +10,10 @@ GO TO [RELOAD.PY]() THEN CHANGE MY ID NUMBER
 <a href="https://github.com/AtulxD/FIXXMUSICV/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/AtulxD/FIXXMUSICV/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://telegra.ph/file/58e05d4f4c341ed2dd099.jpg">
 </p>
 
 <p align="center">
