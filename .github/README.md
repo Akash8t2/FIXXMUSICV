@@ -1,7 +1,3 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800" height="3">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vashu2456&repo=FIXXMUSICV&theme=flag-india)
 
 [![GIF](https://github.com/FIXXTEAM/FIXXMUSIC/blob/main/FIXXTEAM.gif)](https://github.com/FIXXTEAM)
@@ -16,6 +12,14 @@ GO TO [RELOAD.PY]() THEN CHANGE MY ID NUMBER
 
 <p align="center">
   <img src="https://telegra.ph/file/c3c53c84112d23f06b02d.jpg">
+</p>
+
+<p align="center">
+<a href="https://github.com/AtulxD/Vashu2456/FIXXMUSICV"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/AtulxD/FIXXMUSICV/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/AtulxD/FIXXMUSICV/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://github.com/AtulxD/FIXXMUSICV/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
