@@ -59,20 +59,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `bash start`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 𝘾𝙍𝙀𝘼𝙏𝙀𝘿 𝘽𝙔 𝙑𝘼𝙎𝙃𝙐 👑
-━━━━━━━━━━━━━━━━━━━━
-
-
-
-
-<p align="center">
-  <img src="https://telegra.ph/file/54d944321535e898c37f5.mp4">
-</p>
-
-
-
-
-
-
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
     ─「 𝘾𝙊𝙉𝙏𝙍𝙄𝘽𝙐𝙏𝙀𝙍𝙎 」─
