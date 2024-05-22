@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     ─「 𝘾𝙊𝙉𝙏𝙍𝙄𝘽𝙐𝙏𝙀𝙍𝙎 」─
 </h3>
 
-![Contributors](https://contrib.rocks/image?repo=Vashu2456/FIXXMUSIC)[(https://contrib.rocks/image?repo=Botmaker456/FIXXMUSIC)
+![Contributors](https://contrib.rocks/image?repo=Vashu2456/FIXXMUSIC)
 
 
 ### Contact :
