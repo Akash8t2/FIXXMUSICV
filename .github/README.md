@@ -77,8 +77,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://facebook.com/"><img title="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/_bad_boy_0567"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vashu2456&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vashu2456&show_icons=true&locale=en&layout=compact" alt="FIXXMUSIC" /></p>
 
 # Owner And Credit
 <details>
