@@ -68,6 +68,35 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ![Contributors](https://contrib.rocks/image?repo=Vashu2456/FIXXMUSIC)
 
 
+# Owner And Credit
+<details>
+<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
+<br>
+
+<h3 align="center">
+   ᴄʀᴇᴅɪᴛs 
+## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
+
+- [Vashu2456](https://telegram.dog/Vashu23456)
+- [Vashu2456](https://github.com/Vashu2456)
+- [Botmaker456](https://github.com/Botmaker456)
+</details>
+
+</h3>
+
+<p align="center">
+<a href="https://github.com/Vashu2456"> <img src="https://img.shields.io/badge/VASHU-black?style=for-the-badge&logo=github" alt="VASHU" /> </a>
+</p>
+
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [VASHU](https://github.com/Vashu2456) ғᴏʀ [FIXXMUSIC](https://github.com/Vashu2456/FIXXMUSICV)_ </b>
+
+<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
+<a href="https://github.com/Vashu2456/FIXXMUSICV"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vashu2456&repo=FIXXMUSICV&theme=chartreuse-dark"></a>
+
+
+
+
+
 ### Contact :
 <a href="https://t.me/Vashu2345"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kingvashu575@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
