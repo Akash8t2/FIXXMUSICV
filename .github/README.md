@@ -26,9 +26,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vashu2456/fixxmusicv"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="580" height="138.45"/></a></p>
-
-<p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FIXXMUSICV&show_icons=true&locale=en&layout=compact" alt="FIXXTEAM" /></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vashu2456/fixxmusicv"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="510" height="138.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
