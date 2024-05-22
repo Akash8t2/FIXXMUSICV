@@ -26,11 +26,11 @@ GO TO [RELOAD.PY]() THEN CHANGE MY ID NUMBER
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vashu2456/fixxmusicv"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/vashu2456/fixxmusicv"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="580" height="138.45"/></a></p>
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FIXXTEAM&show_icons=true&locale=en&layout=compact" alt="FIXXTEAM" /></p>
 
-[![Contributors]
+[![Contributors](https://github.com/Vashu2456/FIXXMUSICV/settings/access
 
 ### Contact :
 <a href="/https://t.me/Vashu2345"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
