@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from FIXXMUSIC import LOGGER, app, userbot
-from FIXXMUSIC.core.call import FIIXX
+from FIXXMUSIC.core.call import FIXX
 from FIXXMUSIC.misc import sudo
 from FIXXMUSIC.plugins import ALL_MODULES
 from FIXXMUSIC.utils.database import get_banned_users, get_gbanned
