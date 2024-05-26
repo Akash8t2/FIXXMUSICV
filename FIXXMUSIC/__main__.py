@@ -5,7 +5,7 @@ from pyrogram import idle
 from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
-from FIXXMUSIC import LOGGER, app, userbot
+from FIXXMUSIC import logger, app, userbot
 from FIXXMUSIC.core.call import FIXX
 from FIXXMUSIC.misc import sudo
 from FIXXMUSIC.plugins import ALL_MODULES
