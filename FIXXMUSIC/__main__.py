@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from .logging import LOGGER
-from FIXXMUSIC import app, userbot
+from FIXXMUSIC.core.call import FIXX
 from FIXXMUSIC.core.call import FIXX
 from FIXXMUSIC.misc import sudo
 from FIXXMUSIC.plugins import ALL_MODULES
